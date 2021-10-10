@@ -1,0 +1,22 @@
+{
+  "name": "@lyr_7d1h/tsconfig",
+  "version": "1.0.0",
+  "description": "Lyr's Shared tsconfig",
+  "license": "GNU GPL V3",
+  "repository": "Lyr-7D1h/tsconfig",
+  "author": "Lyr 7D1h (lyr-7d1h@pm.me)",
+  "main": "tsconfig.json",
+  "engines": {
+    "node": ">=14"
+  },
+  "files": [
+    "tsconfig.json"
+  ],
+  "keywords": [
+    "tsconfig",
+    "typescript",
+    "ts",
+    "config",
+    "configuration"
+  ]
+}
